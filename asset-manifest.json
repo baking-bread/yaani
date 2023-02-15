@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yaani/static/css/main.073c9b0a.css",
+    "main.js": "/yaani/static/js/main.29792c50.js",
+    "static/js/787.221bd8f6.chunk.js": "/yaani/static/js/787.221bd8f6.chunk.js",
+    "index.html": "/yaani/index.html",
+    "main.073c9b0a.css.map": "/yaani/static/css/main.073c9b0a.css.map",
+    "main.29792c50.js.map": "/yaani/static/js/main.29792c50.js.map",
+    "787.221bd8f6.chunk.js.map": "/yaani/static/js/787.221bd8f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.29792c50.js"
+  ]
+}
